@@ -1,0 +1,12 @@
+https://openrouter.ai/rankings
+https://ryzenai.docs.amd.com/en/latest/index.html#
+https://github.com/onnx/turnkeyml/tree/main/examples/lemonade/server
+https://github.com/onnx/turnkeyml/tree/main/examples/lemonade/server
+https://www.amd.com/en/developer/resources/technical-articles/gaia-an-open-source-project-from-amd-for-running-local-llms-on-ryzen-ai.html
+https://huggingface.co/
+https://huggingface.co/amd
+https://huggingface.co/docs/optimum/amd/ryzenai/overview
+https://huggingface.co/microsoft/MAI-DS-R1
+https://microsoft.github.io/Olive/getting-started/getting-started.html
+https://onnxruntime.ai/
+https://github.com/open-webui/open-webui
